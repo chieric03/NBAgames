@@ -6,4 +6,7 @@ seaborn
 mlflow
 zenml
 numpy
+beautifulsoup4
+ipykernel
+playwright
 -e .

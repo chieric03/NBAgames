@@ -20,7 +20,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name= 'NBAgames',
 version= '0.0.1',
-author = 'Eric Chi',
+author = 'Eric',
 author_email = 'chieric03@gmail.com',
 packages = find_packages(),
 install_requires = get_requirements('requirements.txt'),
