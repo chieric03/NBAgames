@@ -1,0 +1,13 @@
+prefix=/Users/ericchi/Projects/NBAgames/venv
+exec_prefix=/Users/ericchi/Projects/NBAgames/venv
+libdir=/Users/ericchi/Projects/NBAgames/venv/lib
+sharedlibdir=/Users/ericchi/Projects/NBAgames/venv/lib
+includedir=/Users/ericchi/Projects/NBAgames/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
