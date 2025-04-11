@@ -1,14 +1,13 @@
 pandas
-#seaborn
-#matplotlib
+seaborn
+matplotlib
 scikit-learn
 seaborn
 mlflow
-#zenml
 numpy
-#beautifulsoup4
+beautifulsoup4
 ipykernel
-#playwright
+playwright
 lxml
 xgboost
 -e .
